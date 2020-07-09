@@ -1,4 +1,4 @@
-### Hi there 👋
+### Joanna Cecilia da Silva Santos
 
 <!--
 **ceciliajoanna/ceciliajoanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🎓 4th-year Ph.D. student at Rochester Institute of Technology (RIT)
+- 💻 Working on software security and architecture
+- ℹ️ More details at my personal website: https://people.rit.edu/jds5109
