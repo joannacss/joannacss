@@ -16,22 +16,24 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓  4th-year Ph.D. student at Rochester Institute of Technology (RIT)
-- 💻  Working on software security and architecture
+- 🎓  4th-year **Ph.D. student** at Rochester Institute of Technology (RIT)
+- 💻  Working on **software security** and **architecture**
 - ℹ️  More details on my personal website: https://people.rit.edu/jds5109
 
 
 
 ## Skills 📚
-- *Programming Languages*: `Java`, `Python`, `C`, `C++`
+- *Programming Languages*: `Java`, `Python`, `C`, `C++`, `Javascript`
 - *Research Fields*:  `Software Security`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 
 ## Fun Facts about Me ⚡
-- I graduated one semester earlier in Computer Engineering at UFS (effectively making me the 1st alumni in Comp. Engineering at the university - and the state)
-- I play guitar 🎸
+- I joined the Computer Engineering program at UFS on the first year it was launched (2009). I graduated one semester earlier, effectively making me the **1st alumni in Computer Engineering** at the university (and the state of Sergipe)
+- I skipped one grade when I was 6 years old (that's why I was usually the youngest student in school/college).
+- I wrote my first program when I was 13 years old (a Quadratic Equation Calculator written in ILA - a language that had a pseudocode syntax that resembled with Portuguese)
+- I play guitar 🎸 (started to learn when I was around 12 years old)
 - I was part of a [band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 
 
 ## Contact Information  📫
 - Twitter: `@joannacss`
-- LinkedIn: linkedin.com/in/joannacss
+- LinkedIn: `linkedin.com/in/joannacss`
 
