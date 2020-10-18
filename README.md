@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 - 🎓  4th-year **Ph.D. student** at Rochester Institute of Technology-RIT. *(Expected to graduate in 07/2021)*
 - 💻  Working on **software security** and **architecture**
-- ℹ️  More details on my personal website: https://people.rit.edu/jds5109/
+- ℹ️  More details on my personal website: https://joannacss.github.io/
 
 
 
 ## Skills 📚
-- *Programming Languages*: `Java`, `Python`, `C`, `C++`, `Javascript`
+- *Programming Languages*: `Java`, `Python`, `C`, `C++`, `Javascript`, `PHP`
 - *Research Fields*:  `Software Security`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 
 ## Fun Facts about Me ⚡
