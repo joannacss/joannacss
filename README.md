@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓  4th-year **Ph.D. student** at Rochester Institute of Technology-RIT. *(Expected to graduate in 07/2021)*
+- 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT. *(Expected to graduate in Spring 2021)*
 - 💻  Working on **software security** and **architecture**
 - ℹ️  More details on my personal website: https://joannacss.github.io/
 
