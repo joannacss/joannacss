@@ -3,7 +3,8 @@
 - 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT. *(Expected to graduate in Spring 2021)*
 - 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
-**I am always open to collaborate. Reach me via e-mail. **
+
+**I am always open to collaborate. Reach me via e-mail.**
 
 
 
