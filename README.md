@@ -4,16 +4,17 @@
 - 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
 
-**I am always open to collaborate. Reach me via e-mail.**
-
+<p align="center">
+	<b>I am always open to collaborate. Reach me via e-mail.</b>
+</p>
 
 
 ## Fun Facts about Me ⚡
-- Since I graduated one semester earlier in Computer Engineering at UFS, I graduated alone and named the class of 2013 as ``Null''.
-- I was the **1st alumni in Computer Engineering** at UFS, effectively making me the first Computer Engineer graduated in the state of Sergipe (Brazil)
-- I skipped one grade when I was 6 years old (that's why I was usually the youngest student in school/college).
-- I wrote my first program when I was 13 years old (a Quadratic Equation Calculator written in ILA - a language that had a pseudocode syntax that resembled with Portuguese)
-- I play guitar 🎸 (started to learn when I was around 12 years old)
+- Since I graduated one semester **earlier** in Computer Engineering at UFS, I graduated alone and named the class of 2013 as `Null`.
+- I was the **1st alumni** in Computer Engineering at UFS, effectively making me the first Computer Engineer graduated in the state of Sergipe (Brazil)
+- I **skipped** one grade when I was 6 years old (that's why I was usually the youngest student in school/college).
+- I wrote my **first program** when I was 13 years old (a Quadratic Equation Calculator written in ILA - a language that had a pseudocode syntax that resembled with Portuguese)
+- I play **guitar**  🎸 
 - I was part of a [band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 
 
 ---
