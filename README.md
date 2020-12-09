@@ -1,30 +1,13 @@
 # Joanna Cecilia da Silva Santos
 
-<!--
-**ceciliajoanna/ceciliajoanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 - 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT. *(Expected to graduate in Spring 2021)*
-- 💻  Working on **software security** and **architecture**
+- 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
+**Reach me by e-mail for collaborations 😄. I am always open to collaborate **
 
 
 
-## Skills 📚
-- *Programming Languages*: `Java`, `Python`, `C`, `C++`, `Javascript`, `PHP`
-- *Research Fields*:  `Software Security`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
+
 
 ## Fun Facts about Me ⚡
 - I joined the Computer Engineering program at UFS on the first year it was launched (2009). I graduated one semester earlier, effectively making me the **1st alumni in Computer Engineering** at the university (and the state of Sergipe)
@@ -36,4 +19,17 @@ Here are some ideas to get you started:
 ## Contact Information  📫
 - Twitter: `@joannacss`
 - LinkedIn: `linkedin.com/in/joannacss`
+
+<p align="center">
+	<a href="https://twitter.com/joannacss">
+    <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/joannacss">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
+    <img src="https://img.shields.io/badge/Citations-89-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+  </a>
+</p>
+
 
