@@ -8,7 +8,7 @@
 	<b>I am always open to collaborate. Reach me via e-mail.</b>
 </p>
 
----
+
 <p align="center">
 	<a href="https://twitter.com/joannacss">
     <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter">
