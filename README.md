@@ -1,4 +1,4 @@
-# (On the Job Market!) Joanna Cecilia da Silva Santos
+# Joanna Cecilia da Silva Santos
 
 - 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT. *(Expected to graduate in Spring 2021)*
 - 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-101-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Citations-103-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
 
