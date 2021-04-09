@@ -17,24 +17,24 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-103-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Citations-105-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
 
 ---
 
 ## Fun Facts about Me ⚡
-- I graduated alone because I finished all courses one semester **earlier** in Computer Engineering at Federal University of Sergipe (UFS) 👩‍🎓
+- 👩‍🎓 I graduated alone because I finished all courses one semester **earlier** in Computer Engineering at Federal University of Sergipe (UFS) 
 	- I named the class of 2013 as `Null` (it made sense back then haha).
 	- Since I gradauted earlier than expected, I ended being the **1st alumni** in CE at UFS.
-- I **skipped** one grade when I was 6 years old 🏫
+- 🎒I **skipped** one grade when I was 6 years old 
    - That's why I was usually the youngest student in school/college
-- I wrote my **first program** when I was 13 years old 🖥️
+- 🖥️ I wrote my **first program** when I was 13 years old
    - A Quadratic Equation Calculator written in ILA - a language that had a pseudocode syntax that resembled with Portuguese
-- I play **guitar**  🎸  (not so regularly due to limited free time)
+- 🎸 I play **guitar**    (not so regularly due to limited free time)
    - Learned to play when I was 12 years old
-- I am learning to play drums 🥁
-- I was part of a [band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 🎵
+- 🥁 I am learning to play drums 
+- 🎵 I was part of a [band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 
    - I even made a cover of Avril Lavigne in 2008
 
 
