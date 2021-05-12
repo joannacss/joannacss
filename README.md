@@ -1,6 +1,7 @@
 # Joanna Cecilia da Silva Santos
 
 - 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT. *(Expected to graduate in Spring 2021)*
+	- I'll join the Computer Science and Engineering (CSE) department at University of Notre Dame as an Assistant Professor on Fall 2021.
 - 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
 
@@ -24,7 +25,7 @@
 ---
 
 ## Fun Facts about Me ⚡
-- 👩‍🎓 I graduated alone because I finished all courses one semester **earlier** in Computer Engineering at Federal University of Sergipe (UFS) 
+- 👩‍🎓 I graduated alone because I finished all courses **one semester earlier** in Computer Engineering at Federal University of Sergipe (UFS) 
 	- I named the class of 2013 as `Null` (it made sense back then haha).
 	- Since I gradauted earlier than expected, I ended being the **1st alumni** in CE at UFS.
 - 🎒I **skipped** one grade when I was 6 years old 
