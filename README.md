@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-105-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Citations-107-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
 
@@ -35,8 +35,8 @@
 - 🎸 I play **guitar**    (not so regularly due to limited free time)
    - Learned to play when I was 12 years old
 - 🥁 I am learning to play drums 
-- 🎵 I was part of a [band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 
-   - I even made a cover of Avril Lavigne in 2008
+- 🎵 I was part of a [pop/rock band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 
+   - I even did a cover of Avril Lavigne in 2008
 
 
 
