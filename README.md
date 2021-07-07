@@ -1,6 +1,6 @@
 # Joanna Cecilia da Silva Santos
 
-- 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT. *(Expected to graduate in Spring 2021)*
+- 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT
 	- I'll join the Computer Science and Engineering (CSE) department at University of Notre Dame as an Assistant Professor on Fall 2021.
 - 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-107-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Citations-111-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
 
