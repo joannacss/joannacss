@@ -1,8 +1,9 @@
 # Joanna Cecilia da Silva Santos
 
-- 🎓  **Ph.D. candidate** at Rochester Institute of Technology-RIT
-	- I'll join the Computer Science and Engineering (CSE) department at University of Notre Dame as an Assistant Professor on Fall 2021.
-- 💻  Research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
+- Assistant Professor in the Department of Computer Science and Engineering at the University of Notre Dame.
+- 🎓  **Ph.D.** and **M.Sc.** from Rochester Institute of Technology (RIT)
+- 🎓  **B.Sc.** from Federal University of Sergipe (UFS)
+- 💻  Main research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
 
 <p align="center">
