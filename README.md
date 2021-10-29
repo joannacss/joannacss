@@ -25,13 +25,13 @@
 
 ---
 
-## Fun Facts about Me ⚡
+## Fun Facts about Me (aka, things you would not see on my CV)⚡
 - 👩‍🎓 I joined the Computer Engineering program at Federal University of Sergipe (UFS) in 2009 (the year it was created). Since I finished all courses **one semester earlier**, I graduated **alone** (i.e., the 2009 "class" was just me lol).
 	- I named the "class" of 2013 as `Null` (it made sense back then haha).
 	- Since I gradauted earlier than expected, I ended being the **1st alumni** from the CE program at UFS.
 - 🎒I **skipped** one grade when I was 6 years old 
    - That's why I was usually the youngest student in school/college
-- 🖥️ I wrote my **first program** when I was 13 years old
+- 🖥️ I wrote my **first program** when I was 13 years old (or 12? don't quite remember the exact year!)
    - A Quadratic Equation Calculator written in ILA - a language that had a pseudocode syntax that resembled with Portuguese
 - 🎸 I play **guitar**    (not so regularly due to limited free time)
    - Learned to play when I was 12 years old
