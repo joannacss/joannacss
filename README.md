@@ -39,7 +39,7 @@
    - to be fair, I am being quite unable to regularly practice it given the sheer amount of work these days 
 - 🎵 I was part of a [pop/rock band](https://www.youtube.com/watch?v=dHqs8XlOXfo) while in middle/high school 
    - I even did a cover of Avril Lavigne in 2008
-- Minecraft is my favorite computer game
-- I trained Krav Maga for two years
+- 🎮 Minecraft is my favorite computer game
+- 🥋 I trained Krav Maga for two years 
 
 
