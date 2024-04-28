@@ -19,14 +19,14 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-300-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Citations-413-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
 
 ---
 
 ## Fun Facts about Me (aka, things you would not see on my CV)⚡
-- 👩‍🎓 I joined the Computer Engineering program at Federal University of Sergipe (UFS) in 2009 (the year it was created). Since I finished all courses **one semester earlier**, I graduated **alone** (i.e., the 2009 "class" was just me lol).
+- 👩‍🎓 I joined the Computer Engineering program at Federal University of Sergipe (UFS) in 2009 (the year it was created). Since I finished all courses **one semester earlier**, I graduated **alone** (i.e., the 2013 "class" was just me lol).
 	- I named the "class" of 2013 as `Null` (it made sense back then haha).
 	- Since I graduated earlier than expected, I ended being the **1st alumni** from the CE program at UFS.
 - 🎒I **skipped** one grade when I was 6 years old 
