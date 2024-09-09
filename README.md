@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-532-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Citations-533-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
 
