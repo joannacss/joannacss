@@ -6,10 +6,6 @@
 - 💻  Main research areas: `Software Security`, `Program Analysis`, `Software Architecture`, `Source Code Analysis`, `Empirical Software Engineering`, `Data Mining`
 - ℹ️  More details on my personal website: https://joannacss.github.io/
 
-<p align="center">
-	<b>I am always open to collaborate. Reach me via e-mail.</b>
-</p>
-
 
 <p align="center">
 	<a href="https://twitter.com/joannacss">
