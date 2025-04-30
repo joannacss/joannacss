@@ -9,7 +9,7 @@
 
 <p align="center">
 	<a href="https://twitter.com/joannacss">
-    <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter">
+    <img src="https://img.shields.io/badge/X--_.svg?style=social&logo=X" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/joannacss">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
